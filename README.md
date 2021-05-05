@@ -1,7 +1,7 @@
 # ThesisPTE
 Ground-based cloud analysis
 
-This repo contain datasets and figures.
+This repo contains datasets and figures generated during my bachelor thesis.
 
 Ceilometer_figures = Daily cloud base height during July, August and September 2020 in Pécs Hungary obtained with a CHM 15k ceilometer and processed with https://alcf-lidar.github.io/
 
